@@ -4,11 +4,14 @@
 
 &nbsp;
 
-## :boom: 3D MHD simulations and synthetic radio emission from an oblique rotating magnetic massive star 
+## 3D MHD simulations and synthetic radio emission from an oblique rotating magnetic massive star 
 ###  Daley-Yates, S. ; Stevens, I. R. ; ud-Doula, A.
 [ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.3251D/abstract) ~ 
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/stz1982.pdf?csf=1&web=1&e=gn0Wx1)
 ~ `\cite{DaleyYates_2019MNRAS.489.3251D}`
+
+This paper has equations for getting radio intensity given a known stellar atmosphere. 
+Thee real explanation is in an earlier (2016) paper also by Simon et al.
 
 
 &nbsp;
@@ -21,10 +24,40 @@
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/stw2184.pdf?csf=1&web=1&e=XFFItH)
 ~ `\cite{DaleyYates_2016MNRAS.463.2735D}`
  
-
-Simon's synthetic radio emission for accelerating stellar winds. 
+- In this paper, Simon takes the stellar wind model developed by [Wright and Barlow](The-radio-and-infrared-spectrum-of-early-type-stars-undergoing-mass-loss) and relaxes soe of the constraints on it, which he can do because of his numerical approach.
+- The ultimate goal in this paper is to create synthetic radio emission for accelerating stellar winds. 
+- While the numerical approach allows for the strict assumptions in Wright and Barlow to be relaxed, a wind density profile must be specified (this is something we can get around by knowing the magnetic field and therefore the density everywhere)
+- 
 
 Included characteristic radius for coronal radio photosphere 
+
+&nbsp;
+
+## The radio and infrared spectrum of early type stars undergoing mass loss 
+###  Wright, A. E. ; Barlow, M. J. 
+[ADS](https://ui.adsabs.harvard.edu/abs/1975MNRAS.170...41W/abstract) ~ `\cite{Wright_1975MNRAS.170...41W}`
+
+**The notes from this paper are primarily in my research notebook pg 12-13.**
+
+It assumes constant speed wind and goes through the calculations for optical depth and line of sight intensity. The constant wind speed is only used for getting the atmosphere density, so if we have another way to get that (i.e. surface magnetic field maps) then we don't have to make that assumption. This also describes the gaunt factor, although it leaves the derivation of the free-free absorption constant for textbooks (see next entry).
+
+
+&nbsp;
+
+## :closed_book: Stellar Atmospheres
+### Mihalas
+`\cite{Mihalas_1978stat.book.....M}` ~ QB 809.M55F78
+
+#### On the derivation of the free-free absorption coefficient
+- In strict thermodynamic equilibrium (TE) the radiation field is isotropic and <img src="https://render.githubusercontent.com/render/math?math=I_{\nu} \equiv B_{\nu}">  
+  This holds for local thermodynamic equilibrium too (LTE) and is something we assume throughout
+- In TE, each upward (atomic energy) transision in range <img src="https://render.githubusercontent.com/render/math?math=(\nu,\nu + d\nu)"> must be balenced by emission in the same range
+- "quantum defect method" for deriving <img src="https://render.githubusercontent.com/render/math?math=\kappa_{\nu}"> (free-free absorption coefficient)
+- Looking at the free-free opacity of H  
+So assuming fully ionized 100% hydrogen atmosphere
+- A free electrion passing near a proton causes a transitory dipole moment and absorptions and emissions of photons (with consequent change en election's *E*) become possible
+- Derived free-free absortion constant for fully ionized hydrogen atmosphere:  
+<img src="https://render.githubusercontent.com/render/math?math=\kappa_{\nu,ff} = 3.6(10^8) g_{III}(\nu,T)\nu^{-3}T^{-1/2}n_en_p(1-e^\frac{-h\nu}{kT})"> where <img src="https://render.githubusercontent.com/render/math?math=g_{III}"> is the gaunt factor, which is given in [Wright and Barlow, 1975](The-radio-and-infrared-spectrum-of-early-type-stars-undergoing-mass-loss).
 
 &nbsp;
 
