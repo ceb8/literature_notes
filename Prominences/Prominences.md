@@ -16,7 +16,14 @@
 ###  Climent, J. B. ; Guirado, J. C. ; Azulay, R. ; Marcaide, J. M. ; Jauncey, D. L. ; Lestrade, J. -F. ; Reynolds, J. E. 
 [ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...641A..90C/abstract) ~ 
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/aa37542-20.pdf?csf=1&web=1&e=1tQeFR)
-~ `\cite{Climent_2020A&A...641A..90C}`
+~ `\cite{Climent_2020A&A...641A..90C}` ~ :page_facing_up:
+
+**Main finding:** Radio images of AB Dor show emission spots up tp 5-18 *R<sub>\*</sub>*. Several theories for what these could be are discussed.  
+**Our goal:** Determine if these structures could be stellar prominences
+
+AB Dor is a fast-rotating pre-main sequence star. (Table 1 holds stellar properties)
+
+
 
 &nbsp;
 
