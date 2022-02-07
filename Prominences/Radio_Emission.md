@@ -8,7 +8,7 @@
 ###  Daley-Yates, S. ; Stevens, I. R. ; ud-Doula, A.
 [ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.3251D/abstract) ~ 
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/stz1982.pdf?csf=1&web=1&e=gn0Wx1)
-~ `\cite{DaleyYates_2019MNRAS.489.3251D}`
+~ `\cite{DaleyYates_2019MNRAS.489.3251D}` ~ :page_facing_up:
 
 This paper has equations for getting radio intensity given a known stellar atmosphere. 
 Thee real explanation is in an earlier (2016) paper also by Simon et al.
