@@ -22,14 +22,20 @@ Thee real explanation is in an earlier (2016) paper also by Simon et al.
 [ADS](https://ui.adsabs.harvard.edu/abs/2016MNRAS.463.2735D/abstract) 
  ~ 
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/stw2184.pdf?csf=1&web=1&e=XFFItH)
-~ `\cite{DaleyYates_2016MNRAS.463.2735D}`
+~ `\cite{DaleyYates_2016MNRAS.463.2735D}` ~ :page_facing_up:
  
+**Calculating flux from stellar wind**
 - In this paper, Simon takes the stellar wind model developed by [Wright and Barlow](The-radio-and-infrared-spectrum-of-early-type-stars-undergoing-mass-loss) and relaxes soe of the constraints on it, which he can do because of his numerical approach.
 - The ultimate goal in this paper is to create synthetic radio emission for accelerating stellar winds. 
 - While the numerical approach allows for the strict assumptions in Wright and Barlow to be relaxed, a wind density profile must be specified (this is something we can get around by knowing the magnetic field and therefore the density everywhere)
-- 
+- This paper goes through the math and simplifies the integrals in ways that we cannot, because they make certain assumptions, basically we have to leave everything inside the integrand because we don't assume isothermal (see notes on printed out copy for details)
+- In the radio regime <img src="https://render.githubusercontent.com/render/math?math=h \nu \ll k_BT"> so the Raleigh-Jeans approximation applies, which allows for the simplification of both the planck function (*B<sub>ν</sub>*) and the absorption constant (κ) (eq. 10)
+- Simon brings this all together to get the total flux from the wind, for our purposes we won't do that final integral since we want an 2D image not a single total value
 
-Included characteristic radius for coronal radio photosphere 
+**Defining an characteristic radius for the coronal radio photosphere**
+- Discusses a "characteristic" radius (*R<sub>ν</sub>*) where for all radii greating than *R<sub>ν</sub>* the wind is optically thin.
+- Different sources define this differently, can basically choose whatever optical depth you want. Simon works it out for  <img src="https://render.githubusercontent.com/render/math?math=\tau=1">
+
 
 &nbsp;
 
