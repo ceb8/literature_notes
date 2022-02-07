@@ -43,7 +43,9 @@ Because of this Simon adds *R<sub>\*<\sub>* to the original *R<sub>ν</sub>*, so
 
 ## The radio and infrared spectrum of early type stars undergoing mass loss 
 ###  Wright, A. E. ; Barlow, M. J. 
-[ADS](https://ui.adsabs.harvard.edu/abs/1975MNRAS.170...41W/abstract) ~ `\cite{Wright_1975MNRAS.170...41W}`
+[ADS](https://ui.adsabs.harvard.edu/abs/1975MNRAS.170...41W/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1975MNRAS_170___41W.pdf?csf=1&web=1&e=ShXbP4)
+~ `\cite{Wright_1975MNRAS.170...41W}`
 
 **The notes from this paper are primarily in my research notebook pg 12-13.**
 
