@@ -16,7 +16,7 @@ Thee real explanation is in an earlier (2016) paper also by Simon et al.
 
 &nbsp;
 
-## :boom: Submillimetre free-free emission from the winds of massive stars in the age of Atacama Large Millimeter/submillimeter Array  
+## Submillimetre free-free emission from the winds of massive stars in the age of Atacama Large Millimeter/submillimeter Array  
 ### Daley-Yates, S.; Stevens, I. R.; Crossland, T. D.  
 
 [ADS](https://ui.adsabs.harvard.edu/abs/2016MNRAS.463.2735D/abstract) 
@@ -35,6 +35,8 @@ Thee real explanation is in an earlier (2016) paper also by Simon et al.
 **Defining an characteristic radius for the coronal radio photosphere**
 - Discusses a "characteristic" radius (*R<sub>ν</sub>*) where for all radii greating than *R<sub>ν</sub>* the wind is optically thin.
 - Different sources define this differently, can basically choose whatever optical depth you want. Simon works it out for  <img src="https://render.githubusercontent.com/render/math?math=\tau=1">
+- "At this frequency, for models with lower mass-loss rates, a terminal velocity wind may lead to a characteristic radius smaller then the stellar radius."  
+Because of this Simon adds *R<sub>\*<\sub>* to the original *R<sub>ν</sub>*, so it trends to *R<sub>\*<\sub>* rather than 0
 
 
 &nbsp;
