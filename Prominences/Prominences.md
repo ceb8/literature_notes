@@ -7,7 +7,8 @@
 ## :boom: Prominence formation and ejection in cool stars  
 ### Villarreal D'Angelo, Carolina ; Jardine, Moira ; See, Victor 
 
-[ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..25V/abstract)
+[ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..25V/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/slx206.pdf?csf=1&web=1&e=0flzqD)
 ~ `\cite{Villarreal_2018MNRAS.475L..25V}`
 
 &nbsp;
