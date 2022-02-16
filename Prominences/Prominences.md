@@ -22,8 +22,26 @@
 **Main finding:** Radio images of AB Dor show emission spots up tp 5-18 *R<sub>\*</sub>*. Several theories for what these could be are discussed.  
 **Our goal:** Determine if these structures could be stellar prominences
 
-AB Dor is a fast-rotating pre-main sequence star. (Table 1 holds stellar properties)  
+**About AB Dor**
+- AB Dor is a fast-rotating pre-main sequence star.  
+ (Table 1 holds stellar properties)  
+ - It is very active and well-studied (basically household name). 
+ - About 15 pc away.
+
+**Background**  
 Previous **very long baseline interferometry (VLBI)** studies of other pre-main sequence starts have shown resolved magnetospheres with sizes of several stellar radii. These results combined with spectra and polarization measurements were used to create a global dipole-like magnetosphere model. The radio emission is is believed to be from (gyro)synchrotron radiation, which would mean that most of the radio emission originated in some combination of: 1) the magnetic equator line, at the distance where the stellar wind opens the closed magentic field lines 2) close to the polar caps where the wind is unrestrained. So basically this is saying that the radio emission come from free flowing stellar wind.
+
+**Findings**
+- At 8.4 GHz the brightest peak of emission is coincident with the position of the star.  
+  The images show complex structures around star, with two distinct emission peaks.
+- At 1.4 GHz 
+
+**Technical details**
+- 1.4 GHz (21 cm)  
+  8.4 GHz  
+  22.3 GHZ (1.3 cm)  
+  Table 2 has details
+- 
 
 
 
