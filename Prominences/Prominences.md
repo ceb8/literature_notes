@@ -31,17 +31,41 @@
 **Background**  
 Previous **very long baseline interferometry (VLBI)** studies of other pre-main sequence starts have shown resolved magnetospheres with sizes of several stellar radii. These results combined with spectra and polarization measurements were used to create a global dipole-like magnetosphere model. The radio emission is is believed to be from (gyro)synchrotron radiation, which would mean that most of the radio emission originated in some combination of: 1) the magnetic equator line, at the distance where the stellar wind opens the closed magentic field lines 2) close to the polar caps where the wind is unrestrained. So basically this is saying that the radio emission come from free flowing stellar wind.
 
-**Findings**
-- At 8.4 GHz the brightest peak of emission is coincident with the position of the star.  
-  The images show complex structures around star, with two distinct emission peaks.
-- At 1.4 GHz 
-
 **Technical details**
 - 1.4 GHz (21 cm)  
   8.4 GHz  
   22.3 GHZ (1.3 cm)  
   Table 2 has details
-- 
+- Inclination of rotation axis of 60° to our line of sight
+
+**Findings**
+- At 8.4 GHz the brightest peak of emission is coincident with the position of the star.  
+  The images show complex structures around star, with two distinct emission peaks.
+- At 1.4 GHz AB Dor is compact source at expected position
+- At 22.3 GHz AB Dor shows nothing at the expected position, but an extended source ~17.5 R* away.  
+  Because of low S/N validity of this detection is somewha suspect  
+  If detection is real, origin is unknown  
+  
+- Split 8.4 GHz into snapshots a few hours long, shows significant morphological variation on this timescale
+<img src="https://user-images.githubusercontent.com/9406508/154256020-fe1352f0-1cca-48e5-9e25-d858b36f229d.png" height="350"/>
+
+- Possible explanations  
+  (gyro)synchrotron emission from large-scale magnetic structures  
+  interacting magnetospheres (With AB Dor C) form "helmet streamers"  
+  Slongshot prominences  
+- 8.4 GHz models must account for:  
+  internal structure with compact features at 10/18 R* away from central component  
+  variability of componant positions on timescale of hours  
+  low degree of circular polarization  
+  brightness temps between 10^7 and 10^8 K 
+
+**Possible scenarios**
+- Polar cap model  
+- Flaring loop model  
+- Helmet streamer model
+- Close companion scenario
+
+
 
 
 
