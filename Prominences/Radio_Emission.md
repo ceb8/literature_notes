@@ -77,15 +77,18 @@ So assuming fully ionized 100% hydrogen atmosphere
 ~ [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1982ApJ___259__350D.pdf?csf=1&web=1&e=5fCRmf)
 ~ `\cite{Dulk_1982ApJ...259..350D}`
 
-
+ 
 &nbsp;
 
-## :boom: Radio emission from the sun and stars
+## Radio emission from the sun and stars
 ### Dulk, G. A. 
 [ADS](https://ui.adsabs.harvard.edu/abs/1985ARA%26A..23..169D/abstract)
 ~ [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1985ARA+A__23__169D.pdf?csf=1&web=1&e=Glp9qJ)
 ~
 `\cite{Dulk_1985ARA&A..23..169D}`
+ 
+ This is a theoretical paper that presents some simplifications of the equations for thermal and non-thermal electron radiation in the radio regime. 
+ Underpins the equations used in Simon's papers.
 
 &nbsp;
 
@@ -94,6 +97,9 @@ So assuming fully ionized 100% hydrogen atmosphere
 [ADS](https://ui.adsabs.harvard.edu/abs/1994ApJ...430..332L/abstract) ~ 
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1994ApJ___430__332L.pdf?csf=1&web=1&e=9lb6ag)
 ~ `\cite{Lim_1994ApJ...430..332L}`
+ 
+**Main point**  
+
 
 &nbsp;
 
