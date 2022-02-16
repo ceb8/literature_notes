@@ -13,7 +13,7 @@
 
 &nbsp;
 
-## :boom::milky_way: The milliarcsecond-scale radio structure of AB Doradus A 
+## :milky_way: The milliarcsecond-scale radio structure of AB Doradus A 
 ###  Climent, J. B. ; Guirado, J. C. ; Azulay, R. ; Marcaide, J. M. ; Jauncey, D. L. ; Lestrade, J. -F. ; Reynolds, J. E. 
 [ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...641A..90C/abstract) ~ 
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/aa37542-20.pdf?csf=1&web=1&e=1tQeFR)
@@ -61,13 +61,31 @@ Previous **very long baseline interferometry (VLBI)** studies of other pre-main 
 
 **Possible scenarios**
 - Polar cap model  
+  Emission comes from abover polar region of star
+  Rotation axis east-west wrt the viewer, slightly misaligned magnetic axis wrt the rotation axis  
+  Does explain the observational features  
+  <img src="https://user-images.githubusercontent.com/9406508/154261328-d7ce4c01-71f0-4bb6-8e4a-9e7cfc00d2c4.png" height="300"/>
+
 - Flaring loop model  
-- Helmet streamer model
-- Close companion scenario
+  Emmision originates due to magnetic reconnection of coronal loop sructure following magnetic field lines  
+  Nearly noth-south rotation axis, slightly misaligned magnetic axis wrt the rotation axis  
+  Recconnection events ~5-9 R*  
+  Fits the snapshopts, but does not explain western-mostr componant being the brighted one (necessarily)  
+  <img src="https://user-images.githubusercontent.com/9406508/154261377-8358a5e3-5f9a-43fc-a57b-d96f46aeb70f.png" width="350"/>
+
+- Helmet streamer model  
+  radio emission originates at upper and lower mirror points
+  associated with large and continuously produced slingshot prominences
+  explains most of the observations, except for the preferred eastwards orientation of the radio emission  
+  <img src="https://user-images.githubusercontent.com/9406508/154261536-4912b4ca-4adc-44bb-a52e-e927e9a58b13.png" width="350"/>
+
+- Close companion scenario  
+  This model would easily explain the features, but is incompatible with previous measurements of the AB Dor system
 
 
-
-
+**Conclusion**
+Results confirm extraordinary coronal magnetic activity in AB Dor, producing compact radio structures at large heights previously only seen in interacting binaries.  
+No emission found at expected position of AB Dor C (ultracool dwarf) which puts upper limits on it.
 
 
 
