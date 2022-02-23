@@ -92,13 +92,30 @@ So assuming fully ionized 100% hydrogen atmosphere
 
 &nbsp;
 
-## :boom: Directivity of the Radio Emission from the K1 Dwarf Star AB Doradus 
+## Directivity of the Radio Emission from the K1 Dwarf Star AB Doradus 
 ###  Lim, Jeremy ; White, Stephen M. ; Nelson, Graam J. ; Benz, Arnold O. 
 [ADS](https://ui.adsabs.harvard.edu/abs/1994ApJ...430..332L/abstract) ~ 
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1994ApJ___430__332L.pdf?csf=1&web=1&e=9lb6ag)
 ~ `\cite{Lim_1994ApJ...430..332L}`
  
 **Main point**  
+ - Presents models that can explain the observed radio emmission from AB Dor.  
+ - Presents indirect evidence that active stars can have highly directional radio emission.
+ - Presents evidence that the brightness temp of the radio emissions may be muich higher than previously thought.
+ 
+ **Observations**
+ - Light curves
+ - Phase fold, radio peaks coincident with starspots
+ 
+ **Results**
+ - Very high brightness temp inferred for AB Dor suggest solar analogy for flares (that all stellar flares are just scaled up solar flares) may not always be true.
+ - Emission shows two peaks in frequency
+ - No circular polarization
+ - 4 models to explain modulated emission:  
+   1. Purely geometrical effects. Confines souces to small range of latitudes and dimensions. High brightness temp inferred (10^13 K)  
+   2. Limb darkening added to number one. Doesn't change the parameters significantly.  
+   3. Directivity outside of the source, i.e. vertical coronal structures around a starspot that absorb radiation along most but not all lines of sight. Limits the dimensions even more. Problem: to get teh observed frequencies the magnetic field over starspots must be very low (~10 G)  
+   4. Directivity intrinsic to source (synchrotron emission). Required same dimensions as #3. Brightness temp can be lower but still up to 6x10^10 K. Problem: requires magnetic structures with weird shapes.
 
 
 &nbsp;
