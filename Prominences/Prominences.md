@@ -106,9 +106,43 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 ~ `\cite{Kellett_2002MNRAS.329..102K}`
 
 
+&nbsp;
 
+## Stellar Prominences 
+### Collier Cameron, A. 
+[ADS](https://ui.adsabs.harvard.edu/abs/2001IAUS..203..229C/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/2001IAUS__203__229C.pdf?csf=1&web=1&e=Ic2t9z)
+~ `\cite{CollierCameron_2001IAUS..203..229C}` ~ 📄
 
+**Main points**
+- Prominences seem to be in physical state similar to solar prominences inasmuch as they are cool enough and dense enough to contain substantial neutral hydrogen
+- Prominences show great promise for probing extent and geometry of closed magnetic field lines in the coronae around rotating cool stars
+- Prominence structure seems to evolve faster than surface stucture
+- Evolution of prominences provides diagnostic on evolution of large-scale corona structure
 
+**Intro**
+- Coronal condensations = slingshot prominences = stellar prominences
+- Prominences form as a variety of distances, but favor sites near Keplarian co-rotation radius
+- Can be seen in Balmer absortion or (less often) emission
+- Prominences are confined and supported byt he magnetic field, and insulated by poor cross-field thermal conductivity
+- Spatial distribution of prominences give insight into coronal field topology, specifically serve as tracers for the radial extent and longitudinal structure of closed field lines
+- Earliest observational evidence in pencil beam studies of exlipsing binaries (Schröder 1983)
+
+**Prominences on single stars**
+- In single stars, observed via Hα absorption transients. 
+- Cameron and Robinson (1989) used time resolved spectroscopy to infer Hα absorbing material co-rotating arounf AB Dor
+- Drift rates of transients determine distances of prominences from rotation axis
+- AB Dor: strong concentration near corotation surface (2.8 R* from rotation axis)
+- Presense suggests formation mechanism similar to solar quiescent prominences
+- Typical transient: column density <img src="https://render.githubusercontent.com/render/math?math=N_H \sim 10^{20} cm^{-2}">, temp <img src="https://render.githubusercontent.com/render/math?math=T \sim 8000-9000 K">, cross-sectional area <img src="https://render.githubusercontent.com/render/math?math=A \sim 3 \times 10^{21} cm^2">, meaning mass is 2-3 orders of magnitude larger than solar quiescent prominence.
+- Typicall 6-8 prominences visible with cylindrical radii 2-8 R<sub>*</sub>
+- Broadly consistent with solar quiesent prominences: cool material (8-9000 K) co-exists with material at both transition region and coronal temps, possibly in filamentary sub-structures
+
+**Relation with magnetic field**
+- Keplarian corotation radius favored, but sometimes prominences are found inside or substantially outside
+- If prominence is significantly outside corotation radius, gravitational force on the plasma is not sufficient to maintain synchronous orbit, additional inward force is required. Camerion and Robinson (1989) proposed magnetic tension force due to curvature of magnetic field at summet of closed loop which anchor prominence to the stellar surface.
+- In stable equilibrium spot capable of supporting a prominence, the effective gravity along local magnetic field must be zero, i.e. local graviotational-centrifugal potential minimum
+- Prominence mass is supplied from surface via uplows, coriolis force on upflows may destabalize the loop unless the field is sufficiently strong, which is when prominences can form
 
 
 
