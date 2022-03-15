@@ -8,15 +8,20 @@
 ### Villarreal D'Angelo, Carolina ; Jardine, Moira ; See, Victor 
 
 [ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..25V/abstract) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/slx206.pdf?csf=1&web=1&e=0flzqD)
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/slx206.pdf)
 ~ `\cite{Villarreal_2018MNRAS.475L..25V}`
+
+- Sun rotates too slowly to have centrifugally-supported slingshot prominences (i.e. above co-rotation radius)
+- They use rotation evolution code (simulation software) to derive properties of the formation/ejection of prominences in sun-like stars
+- **Finding:** for stars with initial rotation rate > 4.6 time solar rotation rate, slingshot prominences will be present even after it reachest the main sequence
+
 
 &nbsp;
 
 ## :milky_way: The milliarcsecond-scale radio structure of AB Doradus A 
 ###  Climent, J. B. ; Guirado, J. C. ; Azulay, R. ; Marcaide, J. M. ; Jauncey, D. L. ; Lestrade, J. -F. ; Reynolds, J. E. 
 [ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...641A..90C/abstract) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/aa37542-20.pdf?csf=1&web=1&e=1tQeFR)
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/aa37542-20.pdf)
 ~ `\cite{Climent_2020A&A...641A..90C}` ~ :page_facing_up:
 
 **Main finding:** Radio images of AB Dor show emission spots up tp 5-18 *R<sub>\*</sub>*. Several theories for what these could be are discussed.  
@@ -144,5 +149,36 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 - In stable equilibrium spot capable of supporting a prominence, the effective gravity along local magnetic field must be zero, i.e. local graviotational-centrifugal potential minimum
 - Prominence mass is supplied from surface via uplows, coriolis force on upflows may destabalize the loop unless the field is sufficiently strong, which is when prominences can form
 
+&nbsp;
 
+## Slingshot Prominences: nature's wind guages 
+###  Jardine, Moira ; Collier Cameron, Andrew
+[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.2853J) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1810.09319.pdf?csf=1&web=1&e=0nxs68)
+~ `\cite{Jardine_2019MNRAS.482.2853J}`
 
+- Mass loss rates for hot winds of cool stars are important for understanding the star's rotational evolution, but notoriously hard to measure.
+- The paper presents a new mthod for measuring these mass loss rates for young rapid rotators using slingshot prominences.
+- **Key insight:** the sonic point usually lies well below the condensation region. 
+  This is saying is that the sonic radius is within the radius where the prominences are forming.  
+  The sonic radius is where the plasma (which accelerates with distance) reaches the sound speed, so this defines if the flow is sub or super sonic when it reaches the prominence, if it's supersonic, information cannot travel back to the surface to adjust the density, so the density will just continue to grow until the max density that can be supported by the field will be exceeded.  
+  When that happens with either fall back to the surface (prominence below co-rotation radius) or be centrifugally ejected (prominence above co-rotation radius)  
+  We expect the ejected prominences to have max density possible because of this mechanism
+- Because of the above, the the prominence does not affect the flow at the wind base (i.e. the surface)
+- This means that masses and occurences of prominences can be used to estimate the mass flux in the wind  
+  <img src="https://user-images.githubusercontent.com/9406508/158469145-855cec16-1f71-4ecf-8566-162c9c3294d1.png" height="250"/>
+- Their measurements extend the relationshpo between x-ray flux and mass loss rate to 5 orders of magnitude
+- No evidence of seakening of mass loss rates with high x-ray flux levels 
+
+**Follow-up reading**
+- "source surface" location: Reville et al 2015 a,b 
+- Early measurements of proinences: Robinson and Collier Cameron 1986, Collier Cameron and Robinson 1989 a,b
+- About the Keplerian co-rotation radius: Jardine and Collier Cameron 1991
+
+&nbsp;
+
+##  
+###  
+[ADS]() ~ 
+[OneDrive]()
+~ `\cite{}`
