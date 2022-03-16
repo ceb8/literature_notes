@@ -11,10 +11,26 @@
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/slx206.pdf)
 ~ `\cite{Villarreal_2018MNRAS.475L..25V}`
 
+## Prominence formation and ejection in cool stars  
+### Villarreal D'Angelo, Carolina ; Jardine, Moira ; See, Victor 
+
+[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.1448V/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1902.07545.pdf)
+~ `\cite{Villarreal_2019MNRAS.485.1448V}`
+
 - Sun rotates too slowly to have centrifugally-supported slingshot prominences (i.e. above co-rotation radius)
 - They use rotation evolution code (simulation software) to derive properties of the formation/ejection of prominences in sun-like stars
-- **Finding:** for stars with initial rotation rate > 4.6 time solar rotation rate, slingshot prominences will be present even after it reachest the main sequence
+- **Finding:** for stars with initial rotation rate > 4.6 time solar rotation rate, slingshot prominences will be present even after it reachest the main sequence  
+  Also, the mass/lifetime of these slingshot prominences have max values when the star reaches the zero-age main sequence
+- References to lots of papers with specific prominence discoveries (in intro)
+- The alfven radius (r_A) and keplerian co-rotation radius (r_K) are dependent on the stellar rotation rate and will change as the star evolves
+- This work investigates the time-span for which slingshot prominences may exist on a solar-like star: 
+  - How long <img src="https://render.githubusercontent.com/render/math?math=r_K < r_A">
+  - How mass, mass-loss rate, and lifetime of ejection of the prominence evolve
+- Use the rotation evolution code to translate rotation rate dependency into time dependency
 
+**Follow-up reading** ❗👀
+- Collier and Cameron 1989 a,b found prominences on AB Dor ranging from 3-9 R* 
 
 &nbsp;
 
@@ -170,10 +186,22 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 - Their measurements extend the relationshpo between x-ray flux and mass loss rate to 5 orders of magnitude
 - No evidence of seakening of mass loss rates with high x-ray flux levels 
 
-**Follow-up reading**
+**Follow-up reading**❗👀
 - "source surface" location: Reville et al 2015 a,b 
 - Early measurements of proinences: Robinson and Collier Cameron 1986, Collier Cameron and Robinson 1989 a,b
 - About the Keplerian co-rotation radius: Jardine and Collier Cameron 1991
+
+&nbsp;
+
+## :boom: EXOSAT Observations of V471 Tauri: A 9.25 Minute White Dwarf Pulsation and Orbital Phase Dependent X-Ray Dips
+### Jensen, K. A. ; Swank, J. H. ; Petre, R. ; Guinan, E. F. ; Sion, E. M. ; Shipman, H. L. 
+[ADS](https://ui.adsabs.harvard.edu/abs/1986ApJ...309L..27J/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/JensenEtAl.pdf)
+~ `\cite{Jensen_1986ApJ...309L..27J}`
+
+- 28 hours of x-ray observations of V471 Tauri, .52 day period detached binary system, white dwarf and K dwarf
+- Detected pulsed x-ray flux from the white dwarf with 9.25 min period (❓ intristic to WD?)
+- "Residual soft x-ray flux" detected from K dwarf during WD eclipse   (❓ WD in front of K dwarf?)
 
 &nbsp;
 
