@@ -36,7 +36,7 @@ Thee real explanation is in an earlier (2016) paper also by Simon et al.
 - Discusses a "characteristic" radius (*R<sub>ν</sub>*) where for all radii greating than *R<sub>ν</sub>* the wind is optically thin.
 - Different sources define this differently, can basically choose whatever optical depth you want. Simon works it out for  <img src="https://render.githubusercontent.com/render/math?math=\tau=1">
 - "At this frequency, for models with lower mass-loss rates, a terminal velocity wind may lead to a characteristic radius smaller then the stellar radius."  
-Because of this Simon adds *R<sub>\*<\sub>* to the original *R<sub>ν</sub>*, so it trends to *R<sub>\*<\sub>* rather than 0
+Because of this Simon adds *R<sub>\*</sub>* to the original *R<sub>ν</sub>*, so it trends to *R<sub>\*</sub>* rather than 0
 
 
 &nbsp;
@@ -123,12 +123,32 @@ So assuming fully ionized 100% hydrogen atmosphere
 ## :boom: Thermal radio emission from early-type binary systems 
 ### Stevens, Ian R. 
 [ADS](https://ui.adsabs.harvard.edu/abs/1995MNRAS.277..163S/abstract) ~ 
-[OnceDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/mnras277-0163.pdf?csf=1&web=1&e=MMz0b9)
-~ `Stevens_1995MNRAS.277..163S`
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/mnras277-0163.pdf?csf=1&web=1&e=MMz0b9)
+~ `\cite{Stevens_1995MNRAS.277..163S}`
 
 &nbsp;
 
-
-
-
+## The Radio Activity-Rotation Relation of Ultracool Dwarfs
+###  McLean, M. ; Berger, E. ; Reiners, A. 
+[ADS](https://ui.adsabs.harvard.edu/abs/2012ApJ...746...23M/abstract) ~
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/McLean_2012_ApJ_746_23.pdf)
+~ `\cite{McLean_2012ApJ...746...23M}`
  
+- Radio survey of ~100 ultracool dwarfs with very large array (VLA)
+- Goal to explore the role of rotation in radio activity of ultracool dwarfs
+- Found a radio activity-rotation relation with saturation (❓) at <img src="https://render.githubusercontent.com/render/math?math=L_{rad}/L_{bol}\approx 10^{-7.5}"> above <img src="https://render.githubusercontent.com/render/math?math=v\sin i \approx 5 \mathrm{km &nbsp s}^{-1}">
+- Their findings support the idea that rotation effect are important for regulating the topology/strength of magnetic fields at least in some fully convective dwarfs
+- Positive correlaton between radio to bolometric luminosity and spectral type  
+  <img src="https://user-images.githubusercontent.com/9406508/159352447-18989a24-4d76-4305-a734-e1bea64549ae.png" height="300"/>
+- Radio to bolometric velocity vs projected rotational velcity trend. Split by spectral type M0-M6, M7-L3. Black dashed line is fit to earlier type objects.  
+  <img src="https://user-images.githubusercontent.com/9406508/159353321-a7ed80fa-4b55-4294-85b2-8b9f23f888bd.png" height="300"/>
+
+&nbsp;
+
+##
+###
+[ADS]() ~
+[OneDrive]()
+~ `\cite{}`
+
+&nbsp; 
