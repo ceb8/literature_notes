@@ -11,7 +11,7 @@
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/slx206.pdf)
 ~ `\cite{Villarreal_2018MNRAS.475L..25V}`
 
-## Prominence formation and ejection in cool stars  
+## Slingshot prominence evolution for a solar-like star  
 ### Villarreal D'Angelo, Carolina ; Jardine, Moira ; See, Victor 
 
 [ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.1448V/abstract) ~ 
@@ -193,7 +193,7 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 
 &nbsp;
 
-## :boom: EXOSAT Observations of V471 Tauri: A 9.25 Minute White Dwarf Pulsation and Orbital Phase Dependent X-Ray Dips
+## EXOSAT Observations of V471 Tauri: A 9.25 Minute White Dwarf Pulsation and Orbital Phase Dependent X-Ray Dips
 ### Jensen, K. A. ; Swank, J. H. ; Petre, R. ; Guinan, E. F. ; Sion, E. M. ; Shipman, H. L. 
 [ADS](https://ui.adsabs.harvard.edu/abs/1986ApJ...309L..27J/abstract) ~ 
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/JensenEtAl.pdf)
@@ -202,6 +202,8 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 - 28 hours of x-ray observations of V471 Tauri, .52 day period detached binary system, white dwarf and K dwarf
 - Detected pulsed x-ray flux from the white dwarf with 9.25 min period (❓ intristic to WD?)
 - "Residual soft x-ray flux" detected from K dwarf during WD eclipse   (❓ WD in front of K dwarf?)
+- Pronounced dips in soft x-ray flux at specific orbital phases
+- I found this paper hard to understand
 
 &nbsp;
 
