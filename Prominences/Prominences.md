@@ -167,7 +167,7 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 
 &nbsp;
 
-## Slingshot Prominences: nature's wind guages 
+## Slingshot Prominences: nature's wind gauges 
 ###  Jardine, Moira ; Collier Cameron, Andrew
 [ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.2853J) ~ 
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1810.09319.pdf?csf=1&web=1&e=0nxs68)
