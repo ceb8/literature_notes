@@ -34,6 +34,25 @@
 
 &nbsp;
 
+##  Slingshot prominences: coronal structure, mass-loss, and spin-down 
+###   Jardine, M. ; Collier Cameron, A. ; Donati, J. -F. ; Hussain, G. A. J.
+[ADS](https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.4076J/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1911.04339.pdf)
+~ `\cite{Jardine_2020MNRAS.491.4076J}` ~ 📄
+
+- A star;s coronl magnetic field structure is a fundamental propery that governs high-enrgy coronal emissio and mass/angular momentum loss from the stellar wind
+- This paper presents a new method to trace this structure in rapidly-rotating young convective stars using slingshot prominences
+- They extrapolate the magnetic field structure of AB Dor from surface field map and make synthetic H-α stacked spectra
+- They do this with both a *potential* and *non-potential* field, and the  *potential* extrapolation matches the observations, while the *non-potential* one does not
+- They conclude that ejected prominences carry away mass and angular momentum at widely varying rates, but which ay approach those carried by stellar wind
+<img src="https://user-images.githubusercontent.com/9406508/159572265-3b8f99a9-8142-4da7-bd55-af6dbc90015a.png" height="350"/>
+
+**Follow-up reading** ❗👀
+- Alvardo-Gomez et al 2015, about toroidal field componants
+- Waugh and Jardine 2019 about equilibria where prominences can form 
+
+&nbsp;
+
 ## :milky_way: The milliarcsecond-scale radio structure of AB Doradus A 
 ###  Climent, J. B. ; Guirado, J. C. ; Azulay, R. ; Marcaide, J. M. ; Jauncey, D. L. ; Lestrade, J. -F. ; Reynolds, J. E. 
 [ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...641A..90C/abstract) ~ 
