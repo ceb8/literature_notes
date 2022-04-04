@@ -71,12 +71,15 @@ So assuming fully ionized 100% hydrogen atmosphere
 
 &nbsp;
 
-## :boom: Simplified expressions for the gyrosynchrotron radiation from mildly relativistic, nonthermal and thermal electrons 
+## Simplified expressions for the gyrosynchrotron radiation from mildly relativistic, nonthermal and thermal electrons 
 ### Dulk, G. A. ; Marsh, K. A. 
 [ADS](https://ui.adsabs.harvard.edu/abs/1982ApJ...259..350D/abstract)
-~ [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1982ApJ___259__350D.pdf?csf=1&web=1&e=5fCRmf)
+~ [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1982ApJ___259__350D.pdf)
 ~ `\cite{Dulk_1982ApJ...259..350D}`
 
+Theoretical paper giving the following:
+- Simplified expressions for gyrosynchrotron radiation from mildly relativistic electrons (both nonthermal and thermal)
+- Covers 10keV to 1MeV electrons
  
 &nbsp;
 
@@ -120,11 +123,17 @@ So assuming fully ionized 100% hydrogen atmosphere
 
 &nbsp;
 
-## :boom: Thermal radio emission from early-type binary systems 
+## Thermal radio emission from early-type binary systems 
 ### Stevens, Ian R. 
 [ADS](https://ui.adsabs.harvard.edu/abs/1995MNRAS.277..163S/abstract) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/mnras277-0163.pdf?csf=1&web=1&e=MMz0b9)
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/mnras277-0163.pdf)
 ~ `\cite{Stevens_1995MNRAS.277..163S}`
+
+- They are looking into the difference being in a binary system makes on thermal radio emission from early type stars
+- They conclude it makes a lot of difference, and that the presence of a companion with a substantial wind will increase the expected thermal radio emission as compared to a single star with the same characteristics
+- The degree to which the emission is altered is sensitive to the wind characteristics of the companion, and hot gas created by the wind collision plays a large roll
+- This means that not taking binarity into account will cause an **overestimate of mass loss** from the componants in such systems
+- In light of this they discuss methods to more accurately estimate mass loss for early type stars in binary systems
 
 &nbsp;
 
