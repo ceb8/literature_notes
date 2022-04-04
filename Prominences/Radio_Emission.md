@@ -11,7 +11,7 @@
 ~ `\cite{DaleyYates_2019MNRAS.489.3251D}` ~ :page_facing_up:
 
 This paper has equations for getting radio intensity given a known stellar atmosphere. 
-Thee real explanation is in an earlier (2016) paper also by Simon et al.
+The real explanation is in an earlier (2016) paper also by Simon et al.
 
 
 &nbsp;
@@ -25,7 +25,7 @@ Thee real explanation is in an earlier (2016) paper also by Simon et al.
 ~ `\cite{DaleyYates_2016MNRAS.463.2735D}` ~ :page_facing_up:
  
 **Calculating flux from stellar wind**
-- In this paper, Simon takes the stellar wind model developed by [Wright and Barlow](The-radio-and-infrared-spectrum-of-early-type-stars-undergoing-mass-loss) and relaxes soe of the constraints on it, which he can do because of his numerical approach.
+- In this paper, Simon takes the stellar wind model developed by [Wright and Barlow](The-radio-and-infrared-spectrum-of-early-type-stars-undergoing-mass-loss) and relaxes some of the constraints on it, which he can do because of his numerical approach.
 - The ultimate goal in this paper is to create synthetic radio emission for accelerating stellar winds. 
 - While the numerical approach allows for the strict assumptions in Wright and Barlow to be relaxed, a wind density profile must be specified (this is something we can get around by knowing the magnetic field and therefore the density everywhere)
 - This paper goes through the math and simplifies the integrals in ways that we cannot, because they make certain assumptions, basically we have to leave everything inside the integrand because we don't assume isothermal (see notes on printed out copy for details)
