@@ -39,7 +39,7 @@
 - Use the rotation evolution code to translate rotation rate dependency into time dependency
 
 **Follow-up reading** ❗👀
-- Collier and Cameron 1989 a,b found prominences on AB Dor ranging from 3-9 R* 
+- Collier Cameron and Robinson 1989 a,b found prominences on AB Dor ranging from 3-9 R* 
 
 &nbsp;
 
