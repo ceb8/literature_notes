@@ -4,12 +4,21 @@
  
 &nbsp;
   
-## :boom: Prominence formation and ejection in cool stars  
+## Prominence formation and ejection in cool stars  
 ### Villarreal D'Angelo, Carolina ; Jardine, Moira ; See, Victor 
 
 [ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..25V/abstract) ~ 
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/slx206.pdf)
 ~ `\cite{Villarreal_2018MNRAS.475L..25V}`
+
+- Determined which stars can support prominences base on the co-rotation and Alfven radii
+- Determined prominence mass based on magnetic and gravitational energies (with geometric factor)
+- Calculate mass and ejection frequencies that are consistant with observations and indicate that orbiting exoplanet could suffer frequent impacts
+- **Useful tables** 
+  - Table 1: stellar sample properties
+  - Table 2: prominence characteristics
+
+
 
 ## Slingshot prominence evolution for a solar-like star  
 ### Villarreal D'Angelo, Carolina ; Jardine, Moira ; See, Victor 
