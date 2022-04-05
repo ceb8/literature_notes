@@ -3,64 +3,6 @@
 &nbsp;
  
 &nbsp;
-  
-## Prominence formation and ejection in cool stars  
-### Villarreal D'Angelo, Carolina ; Jardine, Moira ; See, Victor 
-
-[ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..25V/abstract) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/slx206.pdf)
-~ `\cite{Villarreal_2018MNRAS.475L..25V}`
-
-- Determined which stars can support prominences base on the co-rotation and Alfven radii
-- Determined prominence mass based on magnetic and gravitational energies (with geometric factor)
-- Calculate mass and ejection frequencies that are consistant with observations and indicate that orbiting exoplanet could suffer frequent impacts
-- **Useful tables** 
-  - Table 1: stellar sample properties
-  - Table 2: prominence characteristics
-
-
-
-## Slingshot prominence evolution for a solar-like star  
-### Villarreal D'Angelo, Carolina ; Jardine, Moira ; See, Victor 
-
-[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.1448V/abstract) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1902.07545.pdf)
-~ `\cite{Villarreal_2019MNRAS.485.1448V}`
-
-- Sun rotates too slowly to have centrifugally-supported slingshot prominences (i.e. above co-rotation radius)
-- They use rotation evolution code (simulation software) to derive properties of the formation/ejection of prominences in sun-like stars
-- **Finding:** for stars with initial rotation rate > 4.6 time solar rotation rate, slingshot prominences will be present even after it reachest the main sequence  
-  Also, the mass/lifetime of these slingshot prominences have max values when the star reaches the zero-age main sequence
-- References to lots of papers with specific prominence discoveries (in intro)
-- The alfven radius (r_A) and keplerian co-rotation radius (r_K) are dependent on the stellar rotation rate and will change as the star evolves
-- This work investigates the time-span for which slingshot prominences may exist on a solar-like star: 
-  - How long <img src="https://render.githubusercontent.com/render/math?math=r_K < r_A">
-  - How mass, mass-loss rate, and lifetime of ejection of the prominence evolve
-- Use the rotation evolution code to translate rotation rate dependency into time dependency
-
-**Follow-up reading** ❗👀
-- Collier Cameron and Robinson 1989 a,b found prominences on AB Dor ranging from 3-9 R* 
-
-&nbsp;
-
-##  Slingshot prominences: coronal structure, mass-loss, and spin-down 
-###   Jardine, M. ; Collier Cameron, A. ; Donati, J. -F. ; Hussain, G. A. J.
-[ADS](https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.4076J/abstract) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1911.04339.pdf)
-~ `\cite{Jardine_2020MNRAS.491.4076J}` ~ 📄
-
-- A star;s coronl magnetic field structure is a fundamental propery that governs high-enrgy coronal emissio and mass/angular momentum loss from the stellar wind
-- This paper presents a new method to trace this structure in rapidly-rotating young convective stars using slingshot prominences
-- They extrapolate the magnetic field structure of AB Dor from surface field map and make synthetic H-α stacked spectra
-- They do this with both a *potential* and *non-potential* field, and the  *potential* extrapolation matches the observations, while the *non-potential* one does not
-- They conclude that ejected prominences carry away mass and angular momentum at widely varying rates, but which ay approach those carried by stellar wind
-<img src="https://user-images.githubusercontent.com/9406508/159572265-3b8f99a9-8142-4da7-bd55-af6dbc90015a.png" height="350"/>
-
-**Follow-up reading** ❗👀
-- Alvardo-Gomez et al 2015, about toroidal field componants
-- Waugh and Jardine 2019 about equilibria where prominences can form 
-
-&nbsp;
 
 ## :milky_way: The milliarcsecond-scale radio structure of AB Doradus A 
 ###  Climent, J. B. ; Guirado, J. C. ; Azulay, R. ; Marcaide, J. M. ; Jauncey, D. L. ; Lestrade, J. -F. ; Reynolds, J. E. 
@@ -136,9 +78,83 @@ Previous **very long baseline interferometry (VLBI)** studies of other pre-main 
 Results confirm extraordinary coronal magnetic activity in AB Dor, producing compact radio structures at large heights previously only seen in interacting binaries.  
 No emission found at expected position of AB Dor C (ultracool dwarf) which puts upper limits on it.
 
+&nbsp;
 
+##  Slingshot prominences: coronal structure, mass-loss, and spin-down 
+###   Jardine, M. ; Collier Cameron, A. ; Donati, J. -F. ; Hussain, G. A. J.
+[ADS](https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.4076J/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1911.04339.pdf)
+~ `\cite{Jardine_2020MNRAS.491.4076J}` ~ 📄
+
+- A star;s coronl magnetic field structure is a fundamental propery that governs high-enrgy coronal emissio and mass/angular momentum loss from the stellar wind
+- This paper presents a new method to trace this structure in rapidly-rotating young convective stars using slingshot prominences
+- They extrapolate the magnetic field structure of AB Dor from surface field map and make synthetic H-α stacked spectra
+- They do this with both a *potential* and *non-potential* field, and the  *potential* extrapolation matches the observations, while the *non-potential* one does not
+- They conclude that ejected prominences carry away mass and angular momentum at widely varying rates, but which ay approach those carried by stellar wind
+<img src="https://user-images.githubusercontent.com/9406508/159572265-3b8f99a9-8142-4da7-bd55-af6dbc90015a.png" height="350"/>
+
+**Follow-up reading** 👀
+- Alvardo-Gomez et al 2018, about toroidal field componants
+- Waugh and Jardine 2019 about equilibria where prominences can form 
 
 &nbsp;
+
+## Slingshot prominence evolution for a solar-like star  
+### Villarreal D'Angelo, Carolina ; Jardine, Moira ; See, Victor 
+
+[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.1448V/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1902.07545.pdf)
+~ `\cite{Villarreal_2019MNRAS.485.1448V}`
+
+- Sun rotates too slowly to have centrifugally-supported slingshot prominences (i.e. above co-rotation radius)
+- They use rotation evolution code (simulation software) to derive properties of the formation/ejection of prominences in sun-like stars
+- **Finding:** for stars with initial rotation rate > 4.6 time solar rotation rate, slingshot prominences will be present even after it reachest the main sequence  
+  Also, the mass/lifetime of these slingshot prominences have max values when the star reaches the zero-age main sequence
+- References to lots of papers with specific prominence discoveries (in intro)
+- The alfven radius (r_A) and keplerian co-rotation radius (r_K) are dependent on the stellar rotation rate and will change as the star evolves
+- This work investigates the time-span for which slingshot prominences may exist on a solar-like star: 
+  - How long <img src="https://render.githubusercontent.com/render/math?math=r_K < r_A">
+  - How mass, mass-loss rate, and lifetime of ejection of the prominence evolve
+- Use the rotation evolution code to translate rotation rate dependency into time dependency
+
+**Follow-up reading** 👀
+- Collier Cameron and Robinson 1989 a,b found prominences on AB Dor ranging from 3-9 R* 
+
+&nbsp;
+
+## :boom: Magnetic support of stellar slingshot prominences
+###  Waugh, Rose F. P. ; Jardine, Moira M.
+[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.1513W/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Waugh_2019.pdf?CT=1649190376938&OR=ItemsView)
+~ `\cite{Waugh_2019MNRAS.483.1513W}`
+
+&nbsp;
+
+## Prominence formation and ejection in cool stars  
+### Villarreal D'Angelo, Carolina ; Jardine, Moira ; See, Victor 
+
+[ADS](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..25V/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/slx206.pdf)
+~ `\cite{Villarreal_2018MNRAS.475L..25V}`
+
+- Determined which stars can support prominences base on the co-rotation and Alfven radii
+- Determined prominence mass based on magnetic and gravitational energies (with geometric factor)
+- Calculate mass and ejection frequencies that are consistant with observations and indicate that orbiting exoplanet could suffer frequent impacts
+- **Useful tables** 
+  - Table 1: stellar sample properties
+  - Table 2: prominence characteristics
+
+&nbsp;
+
+## :boom: Suppression of Coronal Mass Ejections in Active Stars by an Overlying Large-scale Magnetic Field: A Numerical Study 
+###   Alvarado-Gómez, Julián D. ; Drake, Jeremy J. ; Cohen, Ofer ; Moschou, Sofia P. ; Garraffo, Cecilia
+[ADS](https://ui.adsabs.harvard.edu/abs/2018ApJ...862...93A/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Alvarado-G%C3%B3mez_2018_ApJ_862_93.pdf)
+~ `\cite{Alvarado_2018ApJ...862...93A}`
+
+&nbsp;
+
+
 
 ## Interacting coronae of two T Tauri stars: first observational evidence for solar-like helmet streamers 
 ###  Massi, M. ; Ros, E. ; Menten, K. M. ; Kaufman Bernadó, M. ; Torricelli-Ciamponi, G. ; Neidhöfer, J. ; Boden, A. ; Boboltz, D. ; Sargent, A. ; Torres, G.
@@ -229,6 +245,22 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 - "Residual soft x-ray flux" detected from K dwarf during WD eclipse   (❓ WD in front of K dwarf?)
 - Pronounced dips in soft x-ray flux at specific orbital phases
 - I found this paper hard to understand
+
+&nbsp;
+
+## :boom: Fast Hα variations on a rapidly rotating, cool main-sequence star-II. Cloud formation and ejection. 
+### Collier Cameron, A. ; Robinson, R. D. 
+[ADS](https://ui.adsabs.harvard.edu/abs/1989MNRAS.238..657C/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Cameron1989_II.pdf)
+~ `\cite{Cameron_1989MNRAS.238..657C}`
+
+&nbsp;
+
+## :boom: Fast H-alpha variations on a rapidly rotating cool main sequence star- I. Circumstellar clouds. 
+### Collier Cameron, A. ; Robinson, R. D. 
+[ADS](https://ui.adsabs.harvard.edu/abs/1989MNRAS.236...57C/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Cameron1989_I.pdf)
+~ `\cite{Cameron_1989MNRAS.236...57C}`
 
 &nbsp;
 
