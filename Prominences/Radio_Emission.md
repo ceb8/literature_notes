@@ -145,7 +145,7 @@ Theoretical paper giving the following:
  
 - Radio survey of ~100 ultracool dwarfs with very large array (VLA)
 - Goal to explore the role of rotation in radio activity of ultracool dwarfs
-- Found a radio activity-rotation relation with saturation (❓) at <img src="https://render.githubusercontent.com/render/math?math=L_{rad}/L_{bol}\approx 10^{-7.5}"> above <img src="https://render.githubusercontent.com/render/math?math=v\sin i \approx 5 \mathrm{km &nbsp s}^{-1}">
+- Found a radio activity-rotation relation that does not show the saturation that is visible in Hα and x-ray
 - Their findings support the idea that rotation effect are important for regulating the topology/strength of magnetic fields at least in some fully convective dwarfs
 - Positive correlaton between radio to bolometric luminosity and spectral type  
   <img src="https://user-images.githubusercontent.com/9406508/159352447-18989a24-4d76-4305-a734-e1bea64549ae.png" height="300"/>
