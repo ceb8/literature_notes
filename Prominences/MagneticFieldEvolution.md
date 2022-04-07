@@ -21,7 +21,7 @@
 - Evidence that a slingshot mechanism is likely cause the further away prominences
 - <img src="https://user-images.githubusercontent.com/9406508/160005177-3de6e6d9-3cb9-491f-bf0a-fa363835cee6.png" height="150"/>
 
-**Follow-up reading** ❗👀
+**Follow-up reading** 👀
 - Steeghs et al 1996, equation 3, for getting mass of prominence based on flux
 
 &nbsp;
