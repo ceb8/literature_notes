@@ -119,6 +119,32 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 
 **Follow-up reading** 👀
 - Collier Cameron and Robinson 1989 a,b found prominences on AB Dor ranging from 3-9 R* 
+&nbsp;
+
+## Slingshot Prominences: nature's wind gauges 
+###  Jardine, Moira ; Collier Cameron, Andrew
+[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.2853J) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1810.09319.pdf?csf=1&web=1&e=0nxs68)
+~ `\cite{Jardine_2019MNRAS.482.2853J}`
+
+- Mass loss rates for hot winds of cool stars are important for understanding the star's rotational evolution, but notoriously hard to measure.
+- The paper presents a new mthod for measuring these mass loss rates for young rapid rotators using slingshot prominences.
+- **Key insight:** the sonic point usually lies well below the condensation region. 
+  This is saying is that the sonic radius is within the radius where the prominences are forming.  
+  The sonic radius is where the plasma (which accelerates with distance) reaches the sound speed, so this defines if the flow is sub or super sonic when it reaches the prominence, if it's supersonic, information cannot travel back to the surface to adjust the density, so the density will just continue to grow until the max density that can be supported by the field will be exceeded.  
+  When that happens with either fall back to the surface (prominence below co-rotation radius) or be centrifugally ejected (prominence above co-rotation radius)  
+  We expect the ejected prominences to have max density possible because of this mechanism
+- Because of the above, the the prominence does not affect the flow at the wind base (i.e. the surface)
+- This means that masses and occurences of prominences can be used to estimate the mass flux in the wind  
+  <img src="https://user-images.githubusercontent.com/9406508/158469145-855cec16-1f71-4ecf-8566-162c9c3294d1.png" height="250"/>
+- Their measurements extend the relationshpo between x-ray flux and mass loss rate to 5 orders of magnitude
+- No evidence of seakening of mass loss rates with high x-ray flux levels 
+
+**Follow-up reading**❗👀
+- "source surface" location: Reville et al 2015 a,b 
+- Early measurements of proinences: Robinson and Collier Cameron 1986, Collier Cameron and Robinson 1989 a,b
+- About the Keplerian co-rotation radius: Jardine and Collier Cameron 1991
+
 
 &nbsp;
 
@@ -208,43 +234,13 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 
 &nbsp;
 
-## Slingshot Prominences: nature's wind gauges 
-###  Jardine, Moira ; Collier Cameron, Andrew
-[ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.2853J) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1810.09319.pdf?csf=1&web=1&e=0nxs68)
-~ `\cite{Jardine_2019MNRAS.482.2853J}`
+## :boom: Slingshot prominences during dwarf nova outbursts? 
+###  
+[ADS](https://ui.adsabs.harvard.edu/abs/1996MNRAS.281..626S/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Steeghs_1996.pdf)
+~ `\cite{Steeghs_1996MNRAS.281..626S}`
 
-- Mass loss rates for hot winds of cool stars are important for understanding the star's rotational evolution, but notoriously hard to measure.
-- The paper presents a new mthod for measuring these mass loss rates for young rapid rotators using slingshot prominences.
-- **Key insight:** the sonic point usually lies well below the condensation region. 
-  This is saying is that the sonic radius is within the radius where the prominences are forming.  
-  The sonic radius is where the plasma (which accelerates with distance) reaches the sound speed, so this defines if the flow is sub or super sonic when it reaches the prominence, if it's supersonic, information cannot travel back to the surface to adjust the density, so the density will just continue to grow until the max density that can be supported by the field will be exceeded.  
-  When that happens with either fall back to the surface (prominence below co-rotation radius) or be centrifugally ejected (prominence above co-rotation radius)  
-  We expect the ejected prominences to have max density possible because of this mechanism
-- Because of the above, the the prominence does not affect the flow at the wind base (i.e. the surface)
-- This means that masses and occurences of prominences can be used to estimate the mass flux in the wind  
-  <img src="https://user-images.githubusercontent.com/9406508/158469145-855cec16-1f71-4ecf-8566-162c9c3294d1.png" height="250"/>
-- Their measurements extend the relationshpo between x-ray flux and mass loss rate to 5 orders of magnitude
-- No evidence of seakening of mass loss rates with high x-ray flux levels 
-
-**Follow-up reading**❗👀
-- "source surface" location: Reville et al 2015 a,b 
-- Early measurements of proinences: Robinson and Collier Cameron 1986, Collier Cameron and Robinson 1989 a,b
-- About the Keplerian co-rotation radius: Jardine and Collier Cameron 1991
-
-&nbsp;
-
-## EXOSAT Observations of V471 Tauri: A 9.25 Minute White Dwarf Pulsation and Orbital Phase Dependent X-Ray Dips
-### Jensen, K. A. ; Swank, J. H. ; Petre, R. ; Guinan, E. F. ; Sion, E. M. ; Shipman, H. L. 
-[ADS](https://ui.adsabs.harvard.edu/abs/1986ApJ...309L..27J/abstract) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/JensenEtAl.pdf)
-~ `\cite{Jensen_1986ApJ...309L..27J}`
-
-- 28 hours of x-ray observations of V471 Tauri, .52 day period detached binary system, white dwarf and K dwarf
-- Detected pulsed x-ray flux from the white dwarf with 9.25 min period (❓ intristic to WD?)
-- "Residual soft x-ray flux" detected from K dwarf during WD eclipse   (❓ WD in front of K dwarf?)
-- Pronounced dips in soft x-ray flux at specific orbital phases
-- I found this paper hard to understand
+**Note:** look at eq 3
 
 &nbsp;
 
@@ -261,6 +257,21 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 [ADS](https://ui.adsabs.harvard.edu/abs/1989MNRAS.236...57C/abstract) ~ 
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Cameron1989_I.pdf)
 ~ `\cite{Cameron_1989MNRAS.236...57C}`
+
+&nbsp;
+
+## EXOSAT Observations of V471 Tauri: A 9.25 Minute White Dwarf Pulsation and Orbital Phase Dependent X-Ray Dips
+### Jensen, K. A. ; Swank, J. H. ; Petre, R. ; Guinan, E. F. ; Sion, E. M. ; Shipman, H. L. 
+[ADS](https://ui.adsabs.harvard.edu/abs/1986ApJ...309L..27J/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/JensenEtAl.pdf)
+~ `\cite{Jensen_1986ApJ...309L..27J}`
+
+- 28 hours of x-ray observations of V471 Tauri, .52 day period detached binary system, white dwarf and K dwarf
+- Detected pulsed x-ray flux from the white dwarf with 9.25 min period (❓ intristic to WD?)
+- "Residual soft x-ray flux" detected from K dwarf during WD eclipse   (❓ WD in front of K dwarf?)
+- Pronounced dips in soft x-ray flux at specific orbital phases
+- I found this paper hard to understand
+
 
 &nbsp;
 
