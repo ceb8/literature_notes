@@ -35,6 +35,7 @@
 - For slow moving stars magnetic flux is proportional to period
 - For rapid rotators field strength is limited by availabl kinetic energy  
 <img src="https://user-images.githubusercontent.com/9406508/161616327-769fcd7d-a164-44f2-a337-ee77b614caad.png" height="350"/>
+
 - This work demonstrates that the rotaion-activity relation comes from a dependence by the magnetic dynamo on rotation
 - "We advocate the picture that the magnetic dynamo generates magnetic flux on the stellar surface proportional to rotation rate with a saturation limit set by the available kinetic energy"
 
