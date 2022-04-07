@@ -28,6 +28,7 @@
 
 ##  Magnetism, rotation, and nonthermal emission in cool stars -- Average magnetic field measurements in 292 M dwarfs
 ###   Reiners, A. ; Shulyak, D. ; Käpylä, P. J. ; Ribas, I. ; Nagel, E. ; Zechmeister, M. ; Caballero, J. A. ; Shan, Y. ; Fuhrmeister, B. ; Quirrenbach, A. ; Amado, P. J. ; Montes, D. ; Jeffers, S. V. ; Azzaro, M. ; Béjar, V. J. S. ; Chaturvedi, P. ; Henning, Th. ; Kürster, M. ; Pallé, E. 
+
 [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220400342R/abstract) 
 
 - Measured surface-average magnetic field on 292 M dwarfs. Most measurements are new.
@@ -38,6 +39,22 @@
 
 - This work demonstrates that the rotaion-activity relation comes from a dependence by the magnetic dynamo on rotation
 - "We advocate the picture that the magnetic dynamo generates magnetic flux on the stellar surface proportional to rotation rate with a saturation limit set by the available kinetic energy"
+
+&nbsp;
+
+## The Effect of Magnetic Topology on Thermally Driven Wind: Toward a General Formulation of the Braking Law 
+###  Réville, Victor ; Brun, Allan Sacha ; Matt, Sean P. ; Strugarek, Antoine ; Pinto, Rui F.
+[ADS]() ~ 
+[OneDrive]()
+~ `\cite{}`
+
+&nbsp;
+
+##  
+###  
+[ADS]() ~ 
+[OneDrive]()
+~ `\cite{}`
 
 &nbsp;
 
