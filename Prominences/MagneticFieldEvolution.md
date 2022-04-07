@@ -70,8 +70,9 @@
 - Schematic of the configuration:  
   <img src="https://user-images.githubusercontent.com/9406508/161618237-6e48f0c9-d86b-41bd-8d39-f64b5dad44c2.png" height="350"/>
   
-**Follow-up** ❗👀
-- Ask Moira about the low density radio emission
+**Follow-up** 👀
+- Ask Moira about the low density radio emission:  
+This paper is just presenting a schematic based on the observations and a possible magnetic field, but no physical theory backing is, so we could be seeing this, but we would need to run our simulations and see what falls out. This particular scnario is not possibly for AB Dor based on its known angular inclination.
 
 
 &nbsp;
