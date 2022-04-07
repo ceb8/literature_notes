@@ -267,10 +267,10 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 ~ `\cite{Jensen_1986ApJ...309L..27J}`
 
 - 28 hours of x-ray observations of V471 Tauri, .52 day period detached binary system, white dwarf and K dwarf
-- Detected pulsed x-ray flux from the white dwarf with 9.25 min period (❓ intristic to WD?)
-- "Residual soft x-ray flux" detected from K dwarf during WD eclipse   (❓ WD in front of K dwarf?)
-- Pronounced dips in soft x-ray flux at specific orbital phases
-- I found this paper hard to understand
+- Detected pulsed x-ray flux from the white dwarf with 9.25 min period (intristic to WD?)
+- "Residual soft x-ray flux" detected from K dwarf during WD eclipse   (K dwarf in front of WD so that light from the WD passes through the K dwarf atmosphere)
+- Pronounced dips in soft x-ray flux at specific orbital phases, i.e. when the pencil beam is going through the prominence
+- The point is that material is trapped out in the atmosphere of the star, co-rotating with the star, and there is enouch material collected there to cause observable dips in the light curve.
 
 
 &nbsp;
