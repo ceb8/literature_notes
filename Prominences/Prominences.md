@@ -124,7 +124,7 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 ## Slingshot Prominences: nature's wind gauges 
 ###  Jardine, Moira ; Collier Cameron, Andrew
 [ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.2853J) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1810.09319.pdf?csf=1&web=1&e=0nxs68)
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1810.09319.pdf)
 ~ `\cite{Jardine_2019MNRAS.482.2853J}`
 
 - Mass loss rates for hot winds of cool stars are important for understanding the star's rotational evolution, but notoriously hard to measure.
@@ -140,9 +140,9 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 - Their measurements extend the relationshpo between x-ray flux and mass loss rate to 5 orders of magnitude
 - No evidence of seakening of mass loss rates with high x-ray flux levels 
 
-**Follow-up reading**❗👀
+**Follow-up reading** 👀
 - "source surface" location: Reville et al 2015 a,b 
-- Early measurements of proinences: Robinson and Collier Cameron 1986, Collier Cameron and Robinson 1989 a,b
+- Early measurements of proinences: Collier Cameron and Robinson 1989 a,b
 - About the Keplerian co-rotation radius: Jardine and Collier Cameron 1991
 
 
@@ -241,6 +241,14 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 ~ `\cite{Steeghs_1996MNRAS.281..626S}`
 
 **Note:** look at eq 3
+
+&nbsp;
+
+## :boom: Magnetostatic Equilibria for Coronal Loops on Rotating Stars 
+###  Jardine, M. ; Collier Cameron, A.
+[ADS](https://ui.adsabs.harvard.edu/abs/1991SoPh..131..269J/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Jardine_Cameron_1991.pdf)
+~ `\cite{Jardine_1991SoPh..131..269J}`
 
 &nbsp;
 
