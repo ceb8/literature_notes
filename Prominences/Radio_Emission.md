@@ -7,7 +7,7 @@
 ## 3D MHD simulations and synthetic radio emission from an oblique rotating magnetic massive star 
 ###  Daley-Yates, S. ; Stevens, I. R. ; ud-Doula, A.
 [ADS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.3251D/abstract) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/stz1982.pdf?csf=1&web=1&e=gn0Wx1)
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/stz1982.pdf)
 ~ `\cite{DaleyYates_2019MNRAS.489.3251D}` ~ :page_facing_up:
 
 This paper has equations for getting radio intensity given a known stellar atmosphere. 
@@ -21,7 +21,7 @@ The real explanation is in an earlier (2016) paper also by Simon et al.
 
 [ADS](https://ui.adsabs.harvard.edu/abs/2016MNRAS.463.2735D/abstract) 
  ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/stw2184.pdf?csf=1&web=1&e=XFFItH)
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/stw2184.pdf)
 ~ `\cite{DaleyYates_2016MNRAS.463.2735D}` ~ :page_facing_up:
  
 **Calculating flux from stellar wind**
@@ -44,7 +44,7 @@ Because of this Simon adds *R<sub>\*</sub>* to the original *R<sub>ν</sub>*, so
 ## The radio and infrared spectrum of early type stars undergoing mass loss 
 ###  Wright, A. E. ; Barlow, M. J. 
 [ADS](https://ui.adsabs.harvard.edu/abs/1975MNRAS.170...41W/abstract) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1975MNRAS_170___41W.pdf?csf=1&web=1&e=ShXbP4)
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1975MNRAS_170___41W.pdf)
 ~ `\cite{Wright_1975MNRAS.170...41W}`
 
 **The notes from this paper are primarily in my research notebook pg 12-13.**
@@ -86,7 +86,7 @@ Theoretical paper giving the following:
 ## Radio emission from the sun and stars
 ### Dulk, G. A. 
 [ADS](https://ui.adsabs.harvard.edu/abs/1985ARA%26A..23..169D/abstract)
-~ [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1985ARA+A__23__169D.pdf?csf=1&web=1&e=Glp9qJ)
+~ [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1985ARA+A__23__169D.pdf)
 ~
 `\cite{Dulk_1985ARA&A..23..169D}`
  
@@ -98,7 +98,7 @@ Theoretical paper giving the following:
 ## Directivity of the Radio Emission from the K1 Dwarf Star AB Doradus 
 ###  Lim, Jeremy ; White, Stephen M. ; Nelson, Graam J. ; Benz, Arnold O. 
 [ADS](https://ui.adsabs.harvard.edu/abs/1994ApJ...430..332L/abstract) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1994ApJ___430__332L.pdf?csf=1&web=1&e=9lb6ag)
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/1994ApJ___430__332L.pdf)
 ~ `\cite{Lim_1994ApJ...430..332L}`
  
 **Main point**  
