@@ -88,6 +88,13 @@
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Vidotto_2018.pdf)
 ~ `\cite{Vidotto_2018haex.bookE..26V}`
 
+&nbsp;
+
+## :boom: Magnetism, dynamo action and the solar-stellar connection 
+### Brun, Allan Sacha ; Browning, Matthew K. 
+[ADS](https://ui.adsabs.harvard.edu/abs/2017LRSP...14....4B/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Brun-Browning2017_Article_MagnetismDynamoActionAndTheSol.pdf)
+~ `\cite{Brun_2017LRSP...14....4B}`
 
 &nbsp;
 
