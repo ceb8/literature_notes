@@ -48,6 +48,38 @@
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Vidotto2021_Article_TheEvolutionOfTheSolarWind.pdf)
 ~ `\cite{Vidotto_2021LRSP...18....3V}`
 
+**Unordered observations (pre-report read through)**
+- "Slingshot prominences occur on fast rotating stars, and are very extended (Jardine and van Ballegooijen 2005), in contrast to solar prominences." 
+- "Jardine and van Ballegooijen (2005) suggested that prominences are formed at the top of long magnetic loops, which are filled with mass from the stellar wind. The material in the prominence cools to a few 10 4 K—thus, if the material has enough optical depth, slingshot prominences are seen in H-a Doppler maps in absorption, when they pass in front of the stellar disc."
+- <img src="https://user-images.githubusercontent.com/9406508/167606157-d16348a1-e7aa-49e8-bcde-171fa734e60e.png" height="350"/>
+- "Firstly, given that these prominences occur at loop tops, they can only exist when the co-rotation radius lies below the Alfve ́n surface, as beyond the Alfve ́n surface, magnetic field lines are open (Jardine and Collier Cameron 2019)" 👀 ❓ alfen surface == source surface???
+- "Villarreal D’Angelo et al. (2018b) demonstrated that for older solar-like stars, the co-rotation radius is above the Alfve ́n radius, and these stars cannot support these types of prominences. Young, fast rotating stars, on the other hand, belong to the other group, in which prominences occur within the Alfven surface."
+- **Basically go back and consult section 2.4 when writing about prominence evolution**
+- Get: Jardine and Collier Cameron (2019) 👀 ❗
+
+**Secton 4**
+- "Indirectly, surface magnetism can manifest itself through activity proxies, such as through brightness variations due to spots and plages as they come in and out of view in a rotation cycle, emission detected in the core of certain chromospheric lines, coronal high energy radiation in X-rays and ultraviolet, among others. All these magnetic proxies evolve with stellar rotation, the clock that tracks the passage of time in solar-like stars. This clock is ultimately regulated by stellar winds, which remove angular momentum from the star and thus force single solar-like stars to spin down with time."
+- Get: Brun and Browning (2017) 👀 ❗ (review on the theory of stellar magnetic field generation and links with stellar rotation)
+- Lehmann et al. (2019) for more info on ZDI
+- "Stellar winds flow through open magnetic field lines, which ultimately are formed by the stellar large-scale fields that were blown open by the wind outflow. The small-scale field can also affect stellar winds, through, for example, determining the ‘‘micro-physics’’ of wind acceleration, which is key for understanding the heating of the solar lower atmosphere (Suzuki and Inutsuka 2005; Cranmer et al. 2007; Shoda et al. 2019)."
+- "the large-scale field and the total field increase with X-ray luminosity. This is an indication that magnetic fields power coronal activity, in the form of X-rays."
+- top paragraph pg 34: how does magnetic field evolve with age?
+- <img src="https://user-images.githubusercontent.com/9406508/167609728-9194f6d9-bfb6-4fca-9443-054aed71f447.png" height="350"/>
+- <img src="https://user-images.githubusercontent.com/9406508/167609925-091774f7-d8ba-4c40-a861-6bfe19ea6dfd.png" height="350"/>
+- "Broadly speaking, the rotational evolution models represent three phases. Starting from the young ages, we find the first phase, when the profile shows a constant XH. This is the disc-locking phase, in which the accretion disc regulates stellar rotation. Meanwhile, the star is contracting onto the main sequence. Once the disc is dispersed, disc locking ceases to exist and only contraction continues to take place and, mostly due to angular momentum conservation, the star then spins up. This is the only phase in which rotation increases and we see the peak in rotation happening at around 20–30 Myr. From there on, rotation decreases with age, which means that single stars on the main sequence will spin down with time. The main driver for this spin down, as we already discussed in the introduction, is the magnetised stellar wind, which carries away angular momentum."
+- "The corona starts above the chromosphere (and above the transition region) and it is characterised by a high temperature (~10^6 K) and low density plasma."
+- "in the cool-star community, it is common to separate the corona as the region of complex, closed magnetic field lines and the wind as belonging to the region of open field lines."
+- "There is still no consensus at how precisely the corona and the wind are heated to such high temperatures and it is possible that a combination of different mechanisms heat the plasma in different regions and at different times, as discussed in the recent review on solar coronal and wind heating by Cranmer and Winebarger (2019)."
+- "The X-ray-rotation activity relation shows how the normalised X-ray luminosity varies as a function of Rossby number" (figure 16)
+
+**Section 5**
+- "These winds are believed to be magnetically-driven, in which coupling between stellar magnetism and convection transports free magnetic energy, which in turn is converted into thermal energy in the upper atmosphere of stars (Matsumoto and Suzuki 2014), giving rise to a hot corona and a hot wind (~10^6 K)."
+- page 44, describes the kind of simulation we are doing (as opposed to explicitely looking at heating mechanisms)
+
+**Final remarks**
+- "One way to shed light on the solar wind evolution is to look at physical characteristics known to be intimately related to winds of solar-like stars: rotation, magnetism and activity. These three ‘ingredients’ are related to the evolution of the solar wind in a feedback loop that I summarised in Fig. 1. The stellar wind carries away angular momentum, which leads stars to spin down. A decrease in rotation rate implies that the dynamo weakens, generating weaker magnetic fields. This affects the stellar wind and the amount of angular momentum it can carry away. Then, the loop restarts. As a result, rotation, magnetism and its proxy in the form of stellar activity decrease with time."
+
+
 &nbsp;
 
 ## :boom: Stellar Coronal and Wind Models: Impact on Exoplanets
