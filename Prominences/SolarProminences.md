@@ -8,7 +8,7 @@
 ###  Brajša, R. ; Sudar, D. ; Benz, A. O. ; Skokić, I. ; Bárta, M. ; De Pontieu, B. ; Kim, S. ; Kobelski, A. ; Kuhar, M. ; Shimojo, M. ; Wedemeyer, S. ; White, S. ; Yagoubov, P. ; Yan, Y.
 
 [ADS](https://ui.adsabs.harvard.edu/abs/2018A%2526A...613A..17B) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/aa30656-17.pdf?csf=1&web=1&e=Zkmr03)
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/aa30656-17.pdf)
 ~ `\cite{Brajsa_2018A&A...613A..17B}`
 
 &nbsp;
@@ -17,7 +17,7 @@
 ###  Gunár, Stanislav ; Heinzel, Petr ; Mackay, Duncan H. ; Anzer, Ulrich
 
 [ADS](https://ui.adsabs.harvard.edu/abs/2016ApJ...833..141G) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Gun%C3%A1r_2016_ApJ_833_141.pdf?csf=1&web=1&e=6pmpwI)
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Gun%C3%A1r_2016_ApJ_833_141.pdf)
 ~ `\cite{Gunar_2016ApJ...833..141G}`
 
 
