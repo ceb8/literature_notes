@@ -7,14 +7,6 @@
 &nbsp;
 &nbsp;
 
-## 💥 On the dynamics of the AB Doradus system 
-### Guirado, J. C. ; Martí-Vidal, I. ; Marcaide, J. M. ; Close, L. M. ; Algaba, J. C. ; Brandner, W. ; Lestrade, J. -F. ; Jauncey, D. L. ; Jones, D. L. ; Preston, R. A. ; Reynolds, J. E.
-[ADS](https://ui.adsabs.harvard.edu/abs/2006A%26A...446..733G/exportcitation) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/giorado2006.pdf)
-~ `\cite{Guirado_2006A&A...446..733G}`
-
-
-&nbsp;
 
 ## 💥 The AB Doradus system revisited: The dynamical mass of AB Dor A/C 
 ###   Azulay, R. ; Guirado, J. C. ; Marcaide, J. M. ; Martí-Vidal, I. ; Ros, E. search by orcid ; Tognelli, E. ; Jauncey, D. L. ; Lestrade, J. -F. ; Reynolds, J. E. 
@@ -40,6 +32,14 @@
 
 &nbsp;
 
+## 💥 On the dynamics of the AB Doradus system 
+### Guirado, J. C. ; Martí-Vidal, I. ; Marcaide, J. M. ; Close, L. M. ; Algaba, J. C. ; Brandner, W. ; Lestrade, J. -F. ; Jauncey, D. L. ; Jones, D. L. ; Preston, R. A. ; Reynolds, J. E.
+[ADS](https://ui.adsabs.harvard.edu/abs/2006A%26A...446..733G/exportcitation) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/giorado2006.pdf)
+~ `\cite{Guirado_2006A&A...446..733G}`
+
+
+&nbsp;
 ##  
 ###  
 [ADS]() ~ 
