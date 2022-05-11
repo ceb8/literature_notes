@@ -193,6 +193,14 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 - Their goal was to find evidence to support this
 - Result: evidence of helmet streamers extending out as far as 24R*
 
+&nbsp;
+
+## 💥 Slingshot prominences above stellar X-ray coronae 
+### Jardine, M. ; van Ballegooijen, A. A. 
+[ADS](https://ui.adsabs.harvard.edu/abs/2005MNRAS.361.1173J/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/jardine_361-4-1173.pdf)
+~ `\cite{Jardine_2005MNRAS.361.1173J}`
+
 
 &nbsp;
 
