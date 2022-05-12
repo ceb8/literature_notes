@@ -131,6 +131,14 @@
 
 &nbsp;
 
+## :boom: Improved angular momentum evolution model for solar-like stars. II. Exploring the mass dependence 
+### Gallet, F. ; Bouvier, J. 
+[ADS](https://ui.adsabs.harvard.edu/abs/2015A%26A...577A..98G/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/gallet_aa25660-15.pdf)
+~ `\cite{Gallet_2015A&A...577A..98G}`
+
+&nbsp;
+
 ## Can late-type active stars be explained by a dipole magnetic trap? 
 ###  Kellett, B. J. ; Bingham, R. ; Cairns, R. A. ; Tsikoudi, V. 
 [ADS](https://ui.adsabs.harvard.edu/abs/2002MNRAS.329..102K/abstract) ~ 
