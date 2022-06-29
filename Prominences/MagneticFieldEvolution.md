@@ -190,6 +190,13 @@
 - Ask Moira about the low density radio emission:  
 This paper is just presenting a schematic based on the observations and a possible magnetic field, but no physical theory backing is, so we could be seeing this, but we would need to run our simulations and see what falls out. This particular scnario is not possibly for AB Dor based on its known angular inclination.
 
+&nbsp;
+
+## :boom: Inferring X-ray coronal structures from Zeeman-Doppler images
+###  Jardine, M. ; Wood, K. ; Collier Cameron, A. search by orcid ; Donati, J. -F. ; Mackay, D. H. 
+[ADS](https://ui.adsabs.harvard.edu/abs/2002MNRAS.336.1364J/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Jardine_2002_336-4-1364.pdf)
+~ `\cite{Jardine_2002MNRAS.336.1364J}`
 
 &nbsp;
 
