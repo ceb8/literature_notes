@@ -1,6 +1,30 @@
-# Papers about Stellar Magnetic Field Evolution
+# Papers about Stellar (and Solar) Magnetic Field Evolution
 
 &nbsp;
+&nbsp;
+
+## :boom: Linking chromospheric activity and magnetic field properties for late-type dwarf stars
+### Brown, E. L. ; Jeffers, S. V. ; Marsden, S. C. ; Morin, J. ; Boro Saikia, S. ; Petit, P. ; Jardine, M. M. ; See, V. ; Vidotto, A. A. ; Mengel, M. W. ; Dahlkemper, M. N. ; the BCool Collaboration 
+[ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220503108B/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Brown_2022_2205.03108.pdf)
+~ `\cite{Brown_2022arXiv220503108B}`
+
+&nbsp;
+
+## :boom: On the origin of magnetic fields in stars - II. The effect of numerical resolution 
+###   Wurster, James ; Bate, Matthew R. ; Price, Daniel J. ; Bonnell, Ian A. 
+[ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511..746W/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Wurster_2022_stac123.pdf)
+~ `\cite{Wurster_2022MNRAS.511..746W}`
+
+&nbsp;
+
+## :boom: Mechanism for Sequestering Magnetic Energy at Large Scales in Shear-Flow Turbulence 
+###  Tripathi, B. ; Fraser, A. E. ; Terry, P. W. ; Zweibel, E. G. ; Pueschel, M. J. 
+[ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220501298T/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Tripathi_2022_2205.01298.pdf)
+~ `\cite{Tripathi_2022arXiv220501298T}`
+
 
 &nbsp;
 
@@ -115,6 +139,14 @@
 
 &nbsp;
 
+## :boom: Improved angular momentum evolution model for solar-like stars. II. Exploring the mass dependence 
+### Gallet, F. ; Bouvier, J. 
+[ADS](https://ui.adsabs.harvard.edu/abs/2015A%26A...577A..98G/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/gallet_aa25660-15.pdf)
+~ `\cite{Gallet_2015A&A...577A..98G}`
+
+&nbsp;
+
 ## :boom: M-dwarf stellar winds: the effects of realistic magnetic geometry on rotational evolution and planets
 ###   Vidotto, A. A. ; Jardine, M. ; Morin, J. ; Donati, J. F. ; Opher, M. ; Gombosi, T. I.
 [ADS](https://ui.adsabs.harvard.edu/abs/2014MNRAS.438.1162V/abstract) ~ 
@@ -123,19 +155,22 @@
 
 &nbsp;
 
+## :boom: The Sun in Time 
+### Harvey, J. W. 
+[ADS](https://ui.adsabs.harvard.edu/abs/2013SSRv..176...47H/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Harvey2013_Article_TheSunInTime.pdf)
+~ `\cite{Harvey_2013SSRv..176...47H}`
+
+
+&nbsp;
+
+
 ## :boom: Alfvén waves as a driving mechanism in stellar winds
 ###  Vidotto, A. A. ; Jatenco-Pereira, V.
 [ADS](https://ui.adsabs.harvard.edu/abs/2010AdSpR..46..509V/abstract) ~ 
 [OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Vidotto_jatenco_2010.pdf)
 ~ `\cite{Vidotto_2010AdSpR..46..509V}`
 
-&nbsp;
-
-## :boom: Improved angular momentum evolution model for solar-like stars. II. Exploring the mass dependence 
-### Gallet, F. ; Bouvier, J. 
-[ADS](https://ui.adsabs.harvard.edu/abs/2015A%26A...577A..98G/abstract) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/gallet_aa25660-15.pdf)
-~ `\cite{Gallet_2015A&A...577A..98G}`
 
 &nbsp;
 
@@ -158,7 +193,24 @@ This paper is just presenting a schematic based on the observations and a possib
 
 &nbsp;
 
-##  
+## :boom: Gas-Magnetic Field Interactions in the Solar Corona 
+### Pneuman, G. W. ; Kopp, Roger A. 
+[ADS](https://ui.adsabs.harvard.edu/abs/1971SoPh...18..258P/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Pneuman_1971.pdf)
+~ `\cite{Pneuman_1971SoPh...18..258P}`
+
+
+&nbsp;
+
+## :boom: Magnetic Fields and the Structure of the Solar Corona. I: Methods of Calculating Coronal Fields
+###   Altschuler, Martin D. ; Newkirk, Gordon 
+[ADS](https://ui.adsabs.harvard.edu/abs/1969SoPh....9..131A/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Altschuler_1969.pdf)
+~ `\cite{Altschuler_1969SoPh....9..131A}`
+
+&nbsp;
+
+## :boom: 
 ###  
 [ADS]() ~ 
 [OneDrive]()
