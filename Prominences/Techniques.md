@@ -15,6 +15,14 @@
 
 &nbsp;
 
+## :boom: A Comparison between Global Solar Magnetohydrodynamic and Potential Field Source Surface Model Results
+### Riley, Pete ; Linker, J. A. ; Mikić, Z. ; Lionello, R. search by orcid ; Ledvina, S. A. ; Luhmann, J. G.
+[ADS](https://ui.adsabs.harvard.edu/abs/2006ApJ...653.1510R/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Riley_2006_ApJ_653_1510.pdf)
+~ `\cite{Riley_2006ApJ...653.1510R}`
+
+&nbsp;
+
 ## Zeeman-Doppler imaging of active stars. I - Basic principles.
 ### Semel, M. 
 [ADS](https://ui.adsabs.harvard.edu/abs/1989A%26A...225..456S/abstract) ~ `\cite{Semel_1989A&A...225..456S}`
