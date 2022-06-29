@@ -1,7 +1,24 @@
 # Stellar Prominences
 
 &nbsp;
- 
+
+&nbsp;
+
+## :boom: Influence of magnetic cycles on stellar prominences and their mass-loss rates 
+###   Faller, Sarah J. ; Jardine, Moira M.
+[ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.5611F/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Faller_2022_stac1273.pdf)
+~ `\cite{Faller_2022MNRAS.513.5611F}`
+
+
+&nbsp;
+
+## :boom: Slingshot prominences: a hidden mass loss mechanism 
+###   Waugh, Rose F. P. ; Jardine, Moira M. ; Morin, J. ; Donati, J. -F. 
+[ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.5104W/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Waugh_2021_stab1709.pdf)
+~ `\cite{Waugh_2021MNRAS.505.5104W}`
+
 &nbsp;
 
 ## :milky_way: The milliarcsecond-scale radio structure of AB Doradus A 
@@ -195,6 +212,23 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 
 &nbsp;
 
+## :boom: The coronal structure of Speedy Mic - I. A densely packed prominence system beyond corotation 
+###  Dunstone, N. J. ; Barnes, J. R. ; Collier Cameron, A. ; Jardine, M.
+[ADS](https://ui.adsabs.harvard.edu/abs/2006MNRAS.365..530D/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Dunstone_2006_365-2-530.pdf)
+~ `\cite{Dunstone_I_2006MNRAS.365..530D}`
+
+
+&nbsp;
+
+## :boom: The coronal structure of Speedy Mic - II. Prominence masses and off-disc emission 
+###  Dunstone, N. J. ; Barnes, J. R. ; Collier Cameron, A. ; Jardine, M.
+[ADS](https://ui.adsabs.harvard.edu/abs/2006MNRAS.373.1308D/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Dunstone_2006b_mnras0373-1308.pdf)
+~ `\cite{Dunstone_II_2006MNRAS.373.1308D}`
+
+&nbsp;
+
 ## 💥 Slingshot prominences above stellar X-ray coronae 
 ### Jardine, M. ; van Ballegooijen, A. A. 
 [ADS](https://ui.adsabs.harvard.edu/abs/2005MNRAS.361.1173J/abstract) ~ 
@@ -207,7 +241,7 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 ## Stellar Prominences 
 ### Collier Cameron, A. 
 [ADS](https://ui.adsabs.harvard.edu/abs/2001IAUS..203..229C/abstract) ~ 
-[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/2001IAUS__203__229C.pdf?csf=1&web=1&e=Ic2t9z)
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/2001IAUS__203__229C.pdf)
 ~ `\cite{CollierCameron_2001IAUS..203..229C}` ~ 📄
 
 **Main points**
@@ -239,6 +273,15 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 - If prominence is significantly outside corotation radius, gravitational force on the plasma is not sufficient to maintain synchronous orbit, additional inward force is required. Camerion and Robinson (1989) proposed magnetic tension force due to curvature of magnetic field at summet of closed loop which anchor prominence to the stellar surface.
 - In stable equilibrium spot capable of supporting a prominence, the effective gravity along local magnetic field must be zero, i.e. local graviotational-centrifugal potential minimum
 - Prominence mass is supplied from surface via uplows, coriolis force on upflows may destabalize the loop unless the field is sufficiently strong, which is when prominences can form
+
+&nbsp;
+
+## :boom: Surface differential rotation and prominences of the Lupus post T Tauri star RX J1508.6-4423
+### Donati, J. -F. ; Mengel, M. ; Carter, B. D. ; Marsden, S. ; Collier Cameron, A. ; Wichmann, R. 
+[ADS](https://ui.adsabs.harvard.edu/abs/2000MNRAS.316..699D/abstract) ~ 
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Donati_2000_316-3-699.pdf?csf=1&web=1&e=vm8GZW)
+~ `\cite{Donati_2000MNRAS.316..699D}`
+
 
 &nbsp;
 
@@ -291,8 +334,8 @@ No emission found at expected position of AB Dor C (ultracool dwarf) which puts 
 
 &nbsp;
 
-##  
-###  
+## :boom: 
+### 
 [ADS]() ~ 
 [OneDrive]()
 ~ `\cite{}`
