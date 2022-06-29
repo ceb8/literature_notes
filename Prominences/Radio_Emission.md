@@ -1,8 +1,15 @@
 
 # Radio Emission sources
 &nbsp;
-
 &nbsp;
+
+## :boom: Radio Spectral Energy Distributions for Single Massive Star Winds with Free-Free and Synchrotron Emission
+###  Erba, Christiana ; Ignace, Richard
+[ADS](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...12E/abstract) ~
+[OneDrive](https://universityofstandrews907-my.sharepoint.com/:b:/r/personal/cb432_st-andrews_ac_uk/Documents/Prominance%20Papers/Erba_2022_ApJ_932_12.pdf)
+~ `\cite{Erba_2022ApJ...932...12E}`
+
+&nbsp; 
 
 ## 3D MHD simulations and synthetic radio emission from an oblique rotating magnetic massive star 
 ###  Daley-Yates, S. ; Stevens, I. R. ; ud-Doula, A.
