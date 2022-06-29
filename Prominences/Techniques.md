@@ -1,4 +1,4 @@
-# Zeeman-Doppler Imaging
+# Papers to do with techniques
 
 &nbsp;
 &nbsp;
@@ -21,7 +21,7 @@
 
 &nbsp;
 
-##  
+## :boom: 
 ###  
 [ADS]() ~ 
 [OneDrive]()
